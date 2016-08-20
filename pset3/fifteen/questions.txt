@@ -1,0 +1,13 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. besides 4X4 the program allows any number greater than 3 and less than 10ie
+3X3 5X5 6X6 7X7 8X8 9X9 
+1. THE GAME BOARD IS REPRESENTED WITH BUBLESORT
+2. THE FUNCTION void greet(void) is used for greeting
+3. the functions void init(void);
+    void draw(void);
+    bool move(int tile);
+    bool won(void); are the implimented functions
